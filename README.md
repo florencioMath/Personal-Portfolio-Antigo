@@ -1,4 +1,4 @@
-<h1 align="center" id="inicio">HTML, CSS e JavaScript - Página de Portfólio Pessoal (antiga)</h1>
+<h1 align="center" id="inicio">Pessoal - Página de Portfólio (antiga)</h1>
 
 ## Seções do README
 <ul>
@@ -19,10 +19,10 @@ Olá, esse projeto foi feito para o curso de Análise e Desenvolvimento de Siste
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- C#
-- Windows Form
-- XAMPP
-- PHPMySQL
+- HTML5
+- CSS3
+- SASS
+- JAVASCRIPT
 
 ## <a id="layout">🔖 Layout</a>
 
